@@ -1,0 +1,116 @@
+
+
+
+ ----- Syncronization done at 05:14:11 ----- 
+
+Adding new subdirectories:
+no new subdirectory was created since last check
+
+Adding new files:
+no new file was created since last check
+
+Deleting old files:
+folder1/subfolder2/subfolder3/asa.txt was deleted
+
+Deleting old subdirectories:
+folder1/subfolder2/subfolder3/php was deleted
+
+Rewriting changed files:
+no file was rewritten since last check
+
+
+
+ ----- Syncronization done at 05:15:11 ----- 
+
+Adding new subdirectories:
+folder1/subfolder2/subfolder3/test was created
+
+Adding new files:
+folder1/subfolder2/subfolder3/test/abcd.py was copied
+folder1/subfolder2/abcd.txt was copied
+
+Deleting old files:
+no file was removed since last check
+
+Deleting old subdirectories:
+no subdirectory was removed since last check
+
+Rewriting changed files:
+no file was rewritten since last check
+
+
+
+ ----- Syncronization done at 05:16:11 ----- 
+
+Adding new subdirectories:
+no new subdirectory was created since last check
+
+Adding new files:
+folder1/subfolder1/test.js was copied
+
+Deleting old files:
+folder1/subfolder2/subfolder3/test/abcd.py was deleted
+
+Deleting old subdirectories:
+folder1/subfolder2/subfolder3/test was deleted
+
+Rewriting changed files:
+folder1/subfolder2/abcd.txt was rewritten
+
+
+
+ ----- Syncronization done at 05:17:11 ----- 
+
+Adding new subdirectories:
+folder1/subfolder2/subfolder3/subfolder4 was created
+
+Adding new files:
+folder1/subfolder2/subfolder3/subfolder4/file5.txt was copied
+
+Deleting old files:
+folder1/subfolder2/abcd.txt was deleted
+folder1/subfolder1/test.js was deleted
+
+Deleting old subdirectories:
+no subdirectory was removed since last check
+
+Rewriting changed files:
+no file was rewritten since last check
+
+
+
+ ----- Syncronization done at 05:18:11 ----- 
+
+Adding new subdirectories:
+folder1/subfolder2/subfolder3/to_be_deleted was created
+
+Adding new files:
+no new file was created since last check
+
+Deleting old files:
+no file was removed since last check
+
+Deleting old subdirectories:
+no subdirectory was removed since last check
+
+Rewriting changed files:
+folder1/subfolder2/subfolder3/subfolder4/file5.txt was rewritten
+
+
+
+ ----- Syncronization done at 05:19:11 ----- 
+
+Adding new subdirectories:
+no new subdirectory was created since last check
+
+Adding new files:
+no new file was created since last check
+
+Deleting old files:
+no file was removed since last check
+
+Deleting old subdirectories:
+folder1/subfolder2/subfolder3/to_be_deleted was deleted
+
+Rewriting changed files:
+no file was rewritten since last check
