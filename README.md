@@ -6,7 +6,5 @@ In the terminal run:
 
 
 On my machine I used:
-
 `python3 program.py /.../veeam/original /.../veeam/copy 1 /.../veeam/logs.txt`
-
 and got the output that can be found in logs.txt as well.
